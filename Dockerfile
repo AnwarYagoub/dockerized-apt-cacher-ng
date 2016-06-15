@@ -11,6 +11,7 @@ RUN     apt-get update && apt-get install -y apt-cacher-ng
 COPY	centos_mirrors /etc/apt-cacher-ng/centos_mirrors
 RUN	sed -i.orig 's|# Gentoo Archives|# Gentoo Archives\nRemap-centos: file:centos_mirrors /centos|' /etc/apt-cacher-ng/acng.conf \
 	&& echo "VfilePatternEx: ^/\?release=[0-9]+&arch=*" >> /etc/apt-cacher-ng/acng.conf
+# more exact patter (another patten: VfilePatternEx: ^/\?release=7&arch=*&repo=*&infra=*)
 
 # Expose port 3142
 EXPOSE      3142
