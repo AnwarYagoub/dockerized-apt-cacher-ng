@@ -217,7 +217,7 @@ http://ftp.ntua.gr/pub/linux/centos/
 http://ftp.freepark.org/pub/linux/distributions/centos/
 http://mirror.met.hu/centos/
 http://centos.lonyai.com/
-http://centos.hysing.is/ 
+http://centos.hysing.is/
 http://centos.t.is/centos/
 http://ftp.heanet.ie/pub/centos/
 http://ct.mirror.garr.it/mirrors/CentOS/
@@ -484,7 +484,7 @@ http://mirrors.liquidweb.com/CentOS/
 http://centos.mbni.med.umich.edu/mirror/
 http://lug.mtu.edu/centos/
 http://mirror.nexcess.net/CentOS/
-http://centos.localmsp.org/centos/ 
+http://centos.localmsp.org/centos/
 http://mirrors.usinternet.com/centos/
 http://mirror.compevo.com/centos/
 http://mirror.fusioncloud.co/pub/centos/
@@ -543,9 +543,13 @@ http://mirror.vtti.vt.edu/centos/
 http://mirror.yellowfiber.net/centos/
 http://mirrors.greenmountainaccess.net/centos/
 http://repo1.sea.innoscale.net/centos/
-http://centos.s.uw.edu/centos/ 
+http://centos.s.uw.edu/centos/
 http://www.wallawalla.edu/
 http://centos.eecs.wsu.edu/
 http://centos.mirrors.tds.net/pub/linux/centos/
 http://mirror.cs.uwp.edu/pub/centos/
 http://centos.mirrors.wvstateu.edu/
+http://centosb5.centos.org/centos/
+http://centost5.centos.org/centos/
+http://mirrors.isu.net.sa/pub/centos/
+http://mirror.isoc.org.il/pub/centos/
